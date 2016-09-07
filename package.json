@@ -1,0 +1,14 @@
+{
+  "name":"static",
+  "files": ["libs","test","README.md"],
+  "version":"1.0.0",
+  "description":"静态CDN资源库",
+  "keywords":["静态","资源库"],
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/staticResource/static.git"
+  },
+  "bugs":{
+    "url":"https://github.com/staticResource/static/issues"
+  }
+}
