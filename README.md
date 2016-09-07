@@ -5,6 +5,8 @@
 如何新建资源库:
 ....
 
+package.json如 libs/test/package.json
+
 目录结构
 libs  静态资源库
 package.json 
