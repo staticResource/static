@@ -3,7 +3,7 @@
 
 您可以在我们的github提交开源库(JS、JQuery、css、image等静态文件)，我们审核通过后，你可以在自己的网页上直接通过script标记引用这些资源，这样做不仅可以为您节省流量，还能通过CDN加速，获得更快的访问速度。
 
-如何新建资源库:http://http://static.cdnunion.com/about.html
+如何新建资源库:http://www.free-libs.com/about.html
 
 package.json如 libs/test/package.json
 
